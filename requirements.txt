@@ -1,5 +1,5 @@
 keras==2.11.0
-matplotlib==3.7.1
+matplotlib==3.5.1
 mplfinance==0.12.9b7
 numpy==1.23.3
 pandas==2.0.1
