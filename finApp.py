@@ -11,7 +11,7 @@ import streamlit as st
 import mplfinance as mpf
 from sklearn.linear_model import LinearRegression
 import datetime as dt
-import tensorflow as tf
+import tensorflow_macos as tf
 
 # defining pages
 
