@@ -9,4 +9,4 @@ streamlit==1.22.0
 tensorflow==2.13.0rc0
 tensorflow_macos==2.13.0rc0
 yfinance==0.2.18
-tf ==2.11.0
+tf ==2.13.0rc0
