@@ -16,7 +16,7 @@ import datetime as dt
 # defining pages
 
 def app():
-    st.markdown("<h1 style='text-align: center; color: black; font-weight: bold;'>Py<span style='color: #F0C808;'>Pred</span></h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; color: #009CE9; font-weight: bold;'>Py<span style='color: #FBFF00;'>Pred</span></h1>", unsafe_allow_html=True)
     st.title('Stock Trend Predictor')
     user_input = st.text_input('Enter Stock Ticker', 'HAL')
     yf.pdr_override()
